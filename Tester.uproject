@@ -12,6 +12,10 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "LiveLinkControlRig",
+			"Enabled": true
 		}
 	]
 }
